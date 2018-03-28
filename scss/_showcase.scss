@@ -1,0 +1,44 @@
+.showcase {
+  .showcase-text {
+    // padding: 3rem;
+  }
+  .showcase-img {
+    padding: 5rem 5rem 5rem 5rem;
+    // border: 1rem;
+    background-color: #f69e55;
+  }
+  @media (min-width: 768px) {
+    .showcase-text {
+      padding: 2rem 3rem 7rem 3rem;
+    }
+  }
+}
+ 
+.btn-primary {
+  background-color: #f69e55;
+  border-color: #f69e55;
+}
+
+.btn-primary:hover {
+  background-color: #f48225;
+  border-color: #f48225;
+}
+
+.btn-verify {
+  margin-top: 1rem;
+  background-color: #f69e55;
+  border-color: #f69e55;
+}
+
+.mapEmbed {
+  width: 100%;
+}
+
+.logoImg {
+  width: 70%;
+}
+
+.row {
+  margin-left: 0;
+  margin-right: 0;
+}
